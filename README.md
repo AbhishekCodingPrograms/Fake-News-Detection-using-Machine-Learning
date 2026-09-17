@@ -1,5 +1,5 @@
 # Fake News Detection using Machine Learning
-
+LIVE : https://fake-news-detection-using-machine-learning-abhishek.streamlit.app/
 A Streamlit web application that classifies a news article as **fake**, **real**, or **uncertain** using predictions from Logistic Regression and Random Forest models.
 
 ## Features
